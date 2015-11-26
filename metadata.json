@@ -1,0 +1,10 @@
+{
+  "name": "raddis-temp217",
+  "version": "0.1.0",
+  "author": "Reid Vandewiele",
+  "license": "Apache-2.0",
+  "summary": "Temporary shim",
+  "source": "https://github.com/raddis/raddis-temp217",
+  "project_page": "https://github.com/raddis/raddis-temp217",
+  "dependencies": [ ]
+}
